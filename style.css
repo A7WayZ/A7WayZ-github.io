@@ -1,0 +1,59 @@
+.item1 { grid-area: header; text-align: center;}
+.item2 { grid-area: menu; }
+.item3 { grid-area: main; }
+.item4 { grid-area: right; }
+
+
+.grid-container {
+  display: grid;
+  grid-template-areas:
+    'header header header header header header'
+    'menu main main main right right'
+    'menu footer footer footer right right';
+  grid-gap: 10px;
+  background-color: black;
+  padding: 10px;
+}
+@media only screen and (max-width: 70em) {
+    .grid-container {
+      background-color: rgb(71, 71, 71);
+      grid-template-areas:
+        'header header '
+        'main main '
+        'menu right'
+        'footer footer';
+    }
+}
+
+@media only screen and (max-width: 50em) {
+  .grid-container {
+    background-color: rgb(165, 165, 165);
+    grid-template-areas:
+      'header'
+      'main'
+      'menu'
+      'right'
+      'footer';
+  }
+}
+
+.grid-container > div {
+  background-color: rgb(255, 255, 255);
+  padding: 1em 1em;
+  font-size: 30px;
+}
+
+.break {
+  text-align: center;
+  margin-top: 1em;
+  padding: 1em;
+  background-color: white;
+  border-radius: .5em;
+  -webkit-box-shadow: 8px 13px 16px 0px rgba(0, 0, 0, 0.85);
+  -moz-box-shadow: 8px 13px 16px 0px rgba(0, 0, 0, 0.85);
+  box-shadow: 8px 13px 16px 0px rgba(0, 0, 0, 0.85);
+  outline-style: auto;
+  outline-color: rgb(102, 102, 102);
+  outline-width: .4em;
+  outline: dashed rgb(0, 0, 0);
+}
