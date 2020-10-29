@@ -28,5 +28,5 @@ function draw() {
 	else if(changeDirection == true){
 		x=x-1}
 	//Når "switch" har skiftet engang, så er x nødt til at være større end bredde
-	//så skal cirklen gå tilbage til venstre.
+	//så skal cirklen gå tilbage til venstre i starte forfra.
 }
