@@ -31,5 +31,10 @@ for(a = 1;a<11;a++){
     }
 }
 
-// Opg 4. ligning der udskriver værdierne (Nåede den ikke)
+// Opg 4. ligning "y=3x^2 + 6x + 9" der udskriver værdierne
 console.log("Opg 4 loop")
+for(var x = 0; x <= 100; x+=10){
+   // y = 3x^2 + 6 + 9
+   let y = 3*x*x+6*x+9;
+    console.log(x+" : "+y)
+}
