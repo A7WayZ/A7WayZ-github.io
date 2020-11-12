@@ -31,5 +31,5 @@ for(a = 1;a<11;a++){
     }
 }
 
-// Opg 4. ligning der udskriver værdierne
+// Opg 4. ligning der udskriver værdierne (Nåede den ikke)
 console.log("Opg 4 loop")

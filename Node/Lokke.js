@@ -1,3 +1,4 @@
+// Eksempel på Node fra lærer
 let name;
 name = "Allan";
 
