@@ -3,3 +3,4 @@
 - [Stickman](A7WayZ.github.io/Stickman/)
 - [Bounce](A7WayZ.github.io/Bounce/)
 - [Logic Operator](A7WayZ.github.io/LogicOperator/)
+- [Parabola](A7WayZ.github.io/Parabola/)
