@@ -5,4 +5,4 @@
 - [Logic Operator](/LogicOperator/)
 - [Parabola](/Parabola/)
 - [Multiple Bouncing Balls](/BouncingBalls/)
-- [Asteroid-Game] (https://kubr3x.github.io/asteroid_game/)
+- [Asteroid Game](/https://kubr3x.github.io/asteroid_game/)
