@@ -6,7 +6,7 @@ function setup() {
 	x = 1;
 	changeDirection = false;
 	//denne variables rolle fungere som en "switch" som vælger hvilken
-	//retning cirklen skal gå efter.
+	//retning cirklen skal gå efter..
 }
 
 function draw() {
