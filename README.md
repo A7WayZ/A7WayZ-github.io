@@ -5,4 +5,6 @@
 - [Logic Operator](/LogicOperator/)
 - [Parabola](/Parabola/)
 - [Multiple Bouncing Balls](/BouncingBalls/)
-- [Asteroid Game](/https://kubr3x.github.io/asteroid_game/)
+<a href="https://kubr3x.github.io/asteroid_game/">
+    <h4>Asteroid Game</h4>
+</a>
