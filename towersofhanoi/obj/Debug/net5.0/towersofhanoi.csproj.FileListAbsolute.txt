@@ -1,0 +1,16 @@
+C:\Users\Sander\Desktop\Programmering x22\CSkarp\towersofhanoi\obj\Debug\net5.0\towersofhanoi.csproj.AssemblyReference.cache
+C:\Users\Sander\Desktop\Programmering x22\CSkarp\towersofhanoi\obj\Debug\net5.0\towersofhanoi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sander\Desktop\Programmering x22\CSkarp\towersofhanoi\obj\Debug\net5.0\towersofhanoi.AssemblyInfoInputs.cache
+C:\Users\Sander\Desktop\Programmering x22\CSkarp\towersofhanoi\obj\Debug\net5.0\towersofhanoi.AssemblyInfo.cs
+C:\Users\Sander\Desktop\Programmering x22\CSkarp\towersofhanoi\obj\Debug\net5.0\towersofhanoi.csproj.CoreCompileInputs.cache
+C:\Users\Sander\Desktop\Programmering x22\CSkarp\towersofhanoi\bin\Debug\net5.0\towersofhanoi.exe
+C:\Users\Sander\Desktop\Programmering x22\CSkarp\towersofhanoi\bin\Debug\net5.0\towersofhanoi.deps.json
+C:\Users\Sander\Desktop\Programmering x22\CSkarp\towersofhanoi\bin\Debug\net5.0\towersofhanoi.runtimeconfig.json
+C:\Users\Sander\Desktop\Programmering x22\CSkarp\towersofhanoi\bin\Debug\net5.0\towersofhanoi.runtimeconfig.dev.json
+C:\Users\Sander\Desktop\Programmering x22\CSkarp\towersofhanoi\bin\Debug\net5.0\towersofhanoi.dll
+C:\Users\Sander\Desktop\Programmering x22\CSkarp\towersofhanoi\bin\Debug\net5.0\ref\towersofhanoi.dll
+C:\Users\Sander\Desktop\Programmering x22\CSkarp\towersofhanoi\bin\Debug\net5.0\towersofhanoi.pdb
+C:\Users\Sander\Desktop\Programmering x22\CSkarp\towersofhanoi\obj\Debug\net5.0\towersofhanoi.dll
+C:\Users\Sander\Desktop\Programmering x22\CSkarp\towersofhanoi\obj\Debug\net5.0\ref\towersofhanoi.dll
+C:\Users\Sander\Desktop\Programmering x22\CSkarp\towersofhanoi\obj\Debug\net5.0\towersofhanoi.pdb
+C:\Users\Sander\Desktop\Programmering x22\CSkarp\towersofhanoi\obj\Debug\net5.0\towersofhanoi.genruntimeconfig.cache
