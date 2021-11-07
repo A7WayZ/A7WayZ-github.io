@@ -18,7 +18,7 @@ namespace towersofhanoi
                               fra + " til felt " + hjælper);
             towerOfHanoi(n - 1, mål, hjælper, fra);
         }
-        public static void Main(String[] args)
+        public static void Main(string[] args)
         {
             int n = 4; // Antal diske
             towerOfHanoi(n, 'A', 'C', 'B'); // A, B og C er felterne
