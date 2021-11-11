@@ -7,10 +7,8 @@ namespace towersofhanoi
     {
         static void towerOfHanoi(int n, char fra, char hjælper, char mål)
         {
-            if (n == 1)
+            if (n <= 0)
             {
-                Console.WriteLine("Flyt disk 1 fra felt " +
-                                  fra + " til felt " + hjælper);
                 return;
             }
             towerOfHanoi(n - 1, fra, mål, hjælper);
